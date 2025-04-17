@@ -6,4 +6,4 @@ I'm early in my journey, but I bring a grey hat mindset — driven by curiosity,
 
 I’m currently learning and building in areas like ethical hacking, purple teaming, and tool development, with a long-term goal of contributing to cutting-edge research and open-source security tools.
 
-💡 I may be a beginner, but I’m here to raise the bar — one project, one exploit, one idea at a time.
+💡 I may be a beginner, but I’m here to raise the bar — one project, one exploit, one idea at a time. Join me !
