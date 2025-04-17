@@ -1,4 +1,4 @@
-## Hi there, Welcome to my domain
+## Hi there, Welcome to my Domain
 
 I'm an aspiring cybersecurity specialist and programmer with a growing passion for offensive security, digital forensics, and security research.
 
