@@ -11,7 +11,7 @@ I bring a **grey hat mindset** — driven by curiosity, grounded in ethics, and 
 - **Security-focused Kernel Module Engineering**
 
 🧠 My vision is clear:  
-To become a world-class **Kernel Security Engineer Expert** — the kind who doesn’t just find bugs in systems, but understands **why they exist**, how to exploit them, and most importantly, how to **build resilient systems that can’t be broken so easily.**
+To become a **Kernel Security Engineer Expert** — the kind who doesn’t just find bugs in systems, but understands **why they exist**, how to exploit them, and most importantly, how to **build resilient systems that can’t be broken so easily.**
 
 💡 From fuzzers to firewalls, from QEMU labs to CVE deep dives, I’m learning, building, and contributing to the tools that will secure the next generation of operating systems.
 
