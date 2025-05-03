@@ -1,21 +1,20 @@
-## 👾 Kernel Security Explorer | Offensive Security Artisan | Builder of Digital Fortresses
+## 👾 Offensive Kernel Security | Red Team × Kernel Expert in the Making
 
-I’m not just another cybersecurity enthusiast — I’m forging a rare path at the intersection of **offensive security** and **kernel engineering**. With a sharp eye for vulnerabilities and a low-level curiosity that digs beneath the surface, I’m on a mission to master the code that runs beneath *all* code.
+I’m forging a rare path at the intersection of offensive security and low-level system internals. With a deep curiosity for how things work under the hood, I specialize in uncovering and exploiting kernel-level vulnerabilities to build stronger, more resilient systems.
 
-I bring a **grey hat mindset** — driven by curiosity, grounded in ethics, and fueled by a belief that breaking things responsibly is the key to building stronger defenses.
+Ethically driven but offensively skilled, I approach security with a grey hat mindset — breaking systems to understand them, and understanding them to harden them.
 
-🔍 I specialize in:
+## 🔍 Focus Areas:
 - **Exploit Development**
 - **Kernel Vulnerability Research**
-- **Ethical Rootkit Analysis**
+- **Rootkit & Malware Analysis**
 - **Security-focused Kernel Module Engineering**
 
-🧠 My vision is clear:  
-To become a **Kernel Security Engineer Expert** — the kind who doesn’t just find bugs in systems, but understands **why they exist**, how to exploit them, and most importantly, how to **build resilient systems that can’t be broken so easily.**
+🧠 **My vision is clear**:  
+To become an expert in **Kernel Security** — one who not only finds flaws but understands their origin, weaponizes them for learning, and ultimately contributes to fixing them.
 
-💡 From fuzzers to firewalls, from QEMU labs to CVE deep dives, I’m learning, building, and contributing to the tools that will secure the next generation of operating systems.
+ Whether I’m fuzzing syscalls, digging through CVEs, or building in QEMU, I’m all-in on securing the foundations of modern computing.
 
-This isn’t just a journey.  
-It’s a **movement** — to take cybersecurity deeper than it’s ever gone before.
+This is more than a journey — it’s about pushing the boundaries of what security at the kernel level can be.
 
 **Let’s raise the bar. One bug. One patch. One breakthrough at a time.**
