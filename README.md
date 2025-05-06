@@ -1,5 +1,5 @@
 ## 👾 Offensive Kernel Security | Red Team × Kernel Expert in the Making
-
+> ![Process Diagram](https://github.com/user-attachments/assets/ab483430-82d3-4e1b-a140-44668f5a0994)
 I’m forging a rare path at the intersection of offensive security and low-level system internals. With a deep curiosity for how things work under the hood, I specialize in uncovering and exploiting kernel-level vulnerabilities to build stronger, more resilient systems.
 
 Ethically driven but offensively skilled, I approach security with a grey hat mindset — breaking systems to understand them, and understanding them to harden them.
