@@ -1,4 +1,4 @@
-## 👾 Offensive Kernel Security | Red Team Ops × Kernel Exploitation 
+## 👾 Offensive Kernel Security | Red Team Ops × Kernel Exploitation | Rootkits Dev | Ethical Hacker |
 
 I’m forging a rare path at the intersection of offensive security and low-level system internals. With a deep curiosity for how things work under the hood, I specialize in uncovering and exploiting kernel-level vulnerabilities to build stronger, more resilient systems.
 
