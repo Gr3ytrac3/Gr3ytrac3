@@ -1,3 +1,5 @@
+![Process Diagram](https://github.com/Gr3ytrac3/Gr3ytrac3/blob/4abecde01639095fa3a422778b4f69940a378d7e/repo.gif)
+
 ## 👾 Offensive Kernel Security | Red Team Ops × Kernel Exploitation | Rootkits Dev |
 
 I’m forging a rare path at the intersection of offensive security and low-level system internals. With a deep curiosity for how things work under the hood, I specialize in uncovering and exploiting kernel-level vulnerabilities to build stronger, more resilient systems.
