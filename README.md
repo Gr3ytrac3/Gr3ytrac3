@@ -1,4 +1,4 @@
-![Process Diagram](https://github.com/Gr3ytrac3/Gr3ytrac3/blob/4abecde01639095fa3a422778b4f69940a378d7e/repo.gif)
+
 
 ## 👾 Offensive Kernel Security | Red Team Ops × Kernel Exploitation | Rootkits Dev |
 
