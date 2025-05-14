@@ -84,9 +84,6 @@ To **emulate the most advanced threat actors** and build tools that test, break,
 <br>
 
 ---
-<br>
 
-
-<br>
 
 © 2025 RedKernel <br>
