@@ -50,14 +50,6 @@ To **emulate the most advanced threat actors** and build tools that test, break,
 ---
 
 
-### 🏗 Featured Projects
-
-- 🔍 **KernelXploitKit** – Modular Linux Kernel Exploitation Framework
-- 🐚 **StealthyShell** – Custom reverse shell using syscall-level hooks
-- 🔒 **FortressAudit** – Kernel-mode integrity verifier & anti-rootkit scanner
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
