@@ -176,8 +176,8 @@ Building **next-generation offensive tools** that test and ultimately strengthen
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║  🎯 EMULATE THE MOST ADVANCED THREAT ACTORS                  ║
-║  🛠️ BUILD TOOLS THAT TEST SYSTEM FOUNDATIONS                ║  
-║  🔓 BREAK, LEARN, AND STRENGTHEN MODERN COMPUTING           ║
+║  🛠️ BUILD TOOLS THAT TEST SYSTEM FOUNDATIONS                 ║  
+║  🔓 BREAK, LEARN, AND STRENGTHEN MODERN COMPUTING            ║
 ║  👑 OPERATE FROM THE KERNEL OUTWARD                          ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
