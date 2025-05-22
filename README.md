@@ -44,7 +44,7 @@
 <td width="50%">
 
 ### 🔥 **Core Identity**
-I am **RedKernel** — an elite **Offensive Kernel Security Engineer** who operates in the deepest layers of system architecture. My domain is the intersection of **low-level systems research** and **advanced red teaming**.
+I am **RedKernel** — an upcoming elite **Offensive Kernel Security Engineer** who operates in the deepest layers of system architecture. My domain is the intersection of **low-level systems research** and **advanced red teaming**.
 
 ### 🎭 **Specialization**
 - 🩸 **Kernel Vulnerability Research & Exploitation**
