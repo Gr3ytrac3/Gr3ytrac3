@@ -1,10 +1,19 @@
 ![Process Diagram](https://github.com/Gr3ytrac3/Gr3ytrac3/blob/93af1dd13532f0f01b1fcfc742c441a88a24ee7d/repo1.gif)
 
-<h1 align="center">Offensive Security Artisan</h1>
-<p align="center">
-  <strong>Kernel Exploiter • Red Teamer • Builder of Digital Fortresses</strong><br>
-  <em>Blending Offensive Security & Kernel Engineering to Simulate Real-World Threats</em>
-</p>
+<div align="center">
+
+# 🔥 **R E D K E R N E L** 🔥
+### *The Ghost in the Machine*
+
+**`💀 Kernel Necromancer`** • **`🎯 System Infiltrator`** • **`⚡ Digital Phantom`**
+
+*"When others see code, I see doorways. When others see security, I see opportunities."*
+
+---
+
+🌟 **Currently haunting Ring 0** | 🎭 **Master of Digital Disguise** | 🔓 **Keeper of Hidden Keys**
+
+</div>
 
 ---
 
