@@ -286,6 +286,6 @@ Building **next-generation offensive tools** that test and ultimately strengthen
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=100&section=footer" width="100%"/>
 
 </div>
