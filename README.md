@@ -47,10 +47,11 @@
 I am **RedKernel** — an upcoming elite **Offensive Kernel Security Engineer** who operates in the deepest layers of system architecture. My domain is the intersection of **low-level systems research** and **advanced red teaming**.
 
 ### 🎭 **Specialization**
-- 🩸 **Kernel Vulnerability Research & Exploitation**
-- 👻 **Advanced Rootkit & Implant Development**  
-- 🕷️ **APT-Style Adversary Simulation**
-- 🔓 **Ring 0 Persistence & Stealth Techniques**
+-  **Kernel Exploitation & CVE Reproduction**
+-  **eBPF-based Surveillance & Weaponization**  
+-  **LSM Hooking & Bypass Strategies**
+-  **Syscall Manipulation & Rootkit Engineering**
+-  **Persistent Implant Development in Ring 0**
 
 </td>
 <td width="50%">
@@ -110,6 +111,9 @@ Building **next-generation offensive tools** that test and ultimately strengthen
 - **Fuzzing:** AFL++, Syzkaller
 - **Analysis:** Volatility, Frida
 - **Targets:** Linux Kernel, Memory Management
+- **Virtualization:** Proxmox, QEMU, Virt-Manager
+- **Scripting:** Python, Bash, Expect
+- **Forensics:** LiME, Rekall, Memory Forensics Frameworks
 
 </td>
 </tr>
@@ -158,6 +162,12 @@ Building **next-generation offensive tools** that test and ultimately strengthen
 <td align="center">Custom Implants • Kernel Fuzzers • Dropper Chains</td>
 <td align="center">🟡 <strong>MEDIUM</strong></td>
 </tr>
+  <tr>
+<td align="center"><strong>Virtualization Intrusion</strong></td>
+<td align="center">Nested Hypervisors • VM Escape Research • IOMMU Spoofing</td>
+<td align="center">🟠 <strong>HIGH</strong></td>
+</tr>
+
 </tbody>
 </table>
 </div>
@@ -238,6 +248,10 @@ Building **next-generation offensive tools** that test and ultimately strengthen
 - **Origin:** Nigeria 🇳🇬
 - **Primary Domain:** Red Teaming & Kernel Security
 - **Secondary Focus:** Exploit Development & Research
+- **Tertiary Interests:** Malware Internals, Firmware Reversing
+- **Lab Host:** Proxmox VE (Custom Offensive Lab)
+- **Learning Style:** Build-first • Fail-fast • Reflect-always
+
 
 ### 🎯 **Current Learning Path**
 - **Linux Kernel Internals** (Advanced)
