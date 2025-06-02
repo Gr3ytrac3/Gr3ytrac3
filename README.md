@@ -1,3 +1,5 @@
+![Process Diagram](https://github.com/Gr3ytrac3/Gr3ytrac3/blob/93af1dd13532f0f01b1fcfc742c441a88a24ee7d/repo1.gif)
+
 <div align="center">
 
 ```
@@ -8,7 +10,7 @@
 ██║  ██║███████╗██████╔╝██║  ██╗███████╗██║  ██║██║ ╚████║███████╗███████╗
 ╚═╝  ╚═╝╚══════╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝
 ```
-![Process Diagram](https://github.com/Gr3ytrac3/Gr3ytrac3/blob/93af1dd13532f0f01b1fcfc742c441a88a24ee7d/repo1.gif)
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF0040&center=true&vCenter=true&multiline=true&width=600&height=80&lines=The+Ghost+in+the+Machine;Ring+0+Architect+%E2%80%A2+Digital+Phantom" alt="Typing SVG" />
 
 <br>
