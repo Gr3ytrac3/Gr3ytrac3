@@ -1,5 +1,3 @@
-![Process Diagram](https://github.com/Gr3ytrac3/Gr3ytrac3/blob/cab23375ef30a47526e28185b438050d20bac262/IMG_5897.JPG)
-
 <div align="center">
 
 ```
