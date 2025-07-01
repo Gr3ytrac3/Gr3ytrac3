@@ -254,10 +254,11 @@ Building **next-generation offensive tools** that test and ultimately strengthen
 
 
 ### 🎯 **Current Learning Path**
-- **Linux Kernel Internals** (Advanced)
-- **System Administration** (Mastery Track)
-- **Network Architecture** (Foundation Building)
-- **Advanced Scripting** (Automation Focus)
+- **Linux Kernel Internals**
+- **System Administration**
+- **C/C++ Programming**
+- **Network Architecture**
+- **Advanced Scripting** 
 
 </td>
 <td width="50%">
