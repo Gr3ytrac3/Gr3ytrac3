@@ -256,7 +256,7 @@ Building **next-generation offensive tools** that test and ultimately strengthen
 ### 🎯 **Current Learning Path**
 - **Linux Kernel Internals**
 - **System Administration**
-- **C/C++ Programming**
+- **C C++ Asm Python Bash**
 - **Network Architecture**
 - **Advanced Scripting** 
 
