@@ -173,9 +173,32 @@ Building **next-generation offensive tools** that test and ultimately strengthen
 </div>
 
 ---
+<div align="center">
+  
+## 🛠️ CURRENT PROJECTS
+- [ ] **Kernel Threat Simulation Lab** — Custom QEMU Lab for Advanced CVE Reproduction.
+- [ ] **USB Guardian** — Linux Security Tool for Device Monitoring & Threat Analysis.
+- [ ] **RedKernel Rootkit Series** — Building a multi-stage kernel rootkit with stealth implants.
+
+---
+
+## 📜 PUBLICATIONS & WRITE-UPS
+-  **Coming Soon:** “Weaponizing UAF Bugs in Linux Kernel v5.x” — [Drafting]
+-  **CVE Analysis Series:** Deep Dives into Kernel Exploitation Techniques — [In Progress]
+
+---
+
+## 🤝 COLLABORATION
+- Open for **Offensive Security Research Collaborations**, **CTF Ops**, and **Kernel Exploitation Projects**.
+- Contact via **[cyberdevhq@proton.me](mailto:cyberdevhq@proton.me)**.
+
+---
+
+</div>
 
 <div align="center">
 
+---
 ## 🧭 **MISSION STATEMENT** 🧭
 
 </div>
@@ -254,11 +277,10 @@ Building **next-generation offensive tools** that test and ultimately strengthen
 
 
 ### 🎯 **Current Learning Path**
-- **Linux Kernel Internals**
-- **System Administration**
-- **C, C++, Asembly, Python, Bash**
-- **Network Architecture**
-- **Advanced Scripting** 
+- **C Programming Mastery**
+- **Linux Kernel Internals Deep Dive**
+- **x86_64 Assembly Reading & Debugging**
+- **Bash & Python Scripting Automation**
 
 </td>
 <td width="50%">
