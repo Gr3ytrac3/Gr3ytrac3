@@ -50,7 +50,7 @@ I am **RedKernel** — an upcoming elite **Offensive Kernel Security Engineer** 
 -  **LSM Hooking & Bypass Strategies**
 -  **Syscall Manipulation & Rootkit Engineering**
 -  **Persistent Implant Development in Ring 0**
--  **Memory-Safe Kernel Tools with Rust**
+-  **Memory-Safe Kernel Tools**
 
 </td>
 <td width="50%">
