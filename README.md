@@ -95,10 +95,6 @@ Building **next-generation offensive tools** that test and ultimately strengthen
 </table>
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Gr3ytrac3&theme=midnight-purple&hide_border=true&background=0D1117&stroke=FF0040&ring=00FF41&fire=FF0040&currStreakLabel=C9D1D9" alt="GitHub Streak" width="400"/>
-</div>
-
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=100&section=footer" width="100%"/>
