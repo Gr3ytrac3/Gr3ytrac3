@@ -86,10 +86,10 @@ Building **next-generation offensive tools** that test and ultimately strengthen
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gr3ytrac3&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=FF0040&icon_color=00FF41&text_color=C9D1D9" alt="GitHub Stats" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Gr3ytrac3&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=merko&icon_color=merko&text_color=C9D1D9" alt="GitHub Stats" width="400"/>
 </td>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gr3ytrac3&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=FF0040&text_color=C9D1D9" alt="Top Languages" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gr3ytrac3&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=merko&text_color=C9D1D9" alt="Top Languages" width="400"/>
 </td>
 </tr>
 </table>
