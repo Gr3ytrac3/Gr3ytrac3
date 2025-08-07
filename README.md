@@ -33,7 +33,7 @@
 
 <div align="center">
 
-## 🌟 **ABOUT THE PHANTOM** 🌟
+## 🌟 **ABOUT Me** 🌟
 
 </div>
 
@@ -73,152 +73,8 @@ Building **next-generation offensive tools** that test and ultimately strengthen
 </tr>
 </table>
 
----
 
-<div align="center">
 
-## ⚔️ **TECHNICAL ARSENAL** ⚔️
-
-</div>
-
-<table align="center">
-<tr>
-<td width="33%">
-
-### 🛠️ **Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
-
-</td>
-<td width="33%">
-
-### 🎯 **Specialties**
-- **Kernel Exploitation**
-- **LSM Bypass Techniques**
-- **Syscall Hooking & Proxying** 
-- **eBPF Weaponization**
-- **LKM Development**
-- **Memory-Safe Kernel Tools with Rust**
-
-</td>
-<td width="34%">
-
-### 🔧 **Tools**
-- **Reverse Engineering:** IDA Pro, Ghidra
-- **Debugging:** GDB, QEMU
-- **Fuzzing:** AFL++, Syzkaller
-- **Analysis:** Volatility, Frida
-- **Targets:** Linux Kernel, Memory Management
-- **Virtualization:** Proxmox, QEMU, Virt-Manager
-- **Scripting:** Python, Bash, Expect
-- **Forensics:** LiME, Rekall, Memory Forensics Frameworks
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🚩 **OFFENSIVE CAPABILITIES** 🚩
-
-</div>
-
-<div align="center">
-<table>
-<thead>
-<tr>
-<th align="center">🎯 <strong>Attack Vector</strong></th>
-<th align="center">⚡ <strong>Techniques & Tools</strong></th>
-<th align="center">🔥 <strong>Impact Level</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><strong>Kernel Rootkit Development</strong></td>
-<td align="center">LKM • Inline Hooking • Netfilter Hijack</td>
-<td align="center">🔴 <strong>CRITICAL</strong></td>
-</tr>
-<tr>
-<td align="center"><strong>CVE Weaponization</strong></td>
-<td align="center">PoC → Exploit → Payload Chain</td>
-<td align="center">🟠 <strong>HIGH</strong></td>
-</tr>
-<tr>
-<td align="center"><strong>APT Simulation</strong></td>
-<td align="center">Custom TTPs • C2 Channels • Beaconing</td>
-<td align="center">🔴 <strong>CRITICAL</strong></td>
-</tr>
-<tr>
-<td align="center"><strong>Detection Evasion</strong></td>
-<td align="center">Syscall Proxying • Anti-Debug • Shadow Memory</td>
-<td align="center">🟠 <strong>HIGH</strong></td>
-</tr>
-<tr>
-<td align="center"><strong>Offensive Tooling</strong></td>
-<td align="center">Custom Implants • Kernel Fuzzers • Dropper Chains</td>
-<td align="center">🟡 <strong>MEDIUM</strong></td>
-</tr>
-  <tr>
-<td align="center"><strong>Virtualization Intrusion</strong></td>
-<td align="center">Nested Hypervisors • VM Escape Research • IOMMU Spoofing</td>
-<td align="center">🟠 <strong>HIGH</strong></td>
-</tr>
-
-</tbody>
-</table>
-</div>
-
----
-<div align="center">
-  
-## 🛠️ CURRENT PROJECTS
-- [ ] **Kernel Threat Simulation Lab** — Custom QEMU Lab for Advanced CVE Reproduction.
-- [ ] **USB Guardian** — Linux Security Tool for Device Monitoring & Threat Analysis.
-- [ ] **RedKernel Rootkit Series** — Building a multi-stage kernel rootkit with stealth implants.
-
----
-
-## 📜 PUBLICATIONS & WRITE-UPS
--  **Coming Soon:** “Weaponizing UAF Bugs in Linux Kernel v5.x” — [Drafting]
--  **CVE Analysis Series:** Deep Dives into Kernel Exploitation Techniques — [In Progress]
-
----
-
-## 🤝 COLLABORATION
-- Open for **Offensive Security Research Collaborations**, **CTF Ops**, and **Kernel Exploitation Projects**.
-- Contact via **[cyberdevhq@proton.me](mailto:cyberdevhq@proton.me)**.
-
----
-
-</div>
-
-<div align="center">
-
----
-## 🧭 **MISSION STATEMENT** 🧭
-
-</div>
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║  🎯 EMULATE THE MOST ADVANCED THREAT ACTORS                  ║
-  ║  🛠️ BUILD TOOLS THAT TEST SYSTEM FOUNDATIONS                 ║  
-║  🔓 BREAK, LEARN, AND STRENGTHEN MODERN COMPUTING            ║
-║  👑 OPERATE FROM THE KERNEL OUTWARD                          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
 
 <div align="center">
 
@@ -243,85 +99,7 @@ Building **next-generation offensive tools** that test and ultimately strengthen
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Gr3ytrac3&theme=midnight-purple&hide_border=true&background=0D1117&stroke=FF0040&ring=00FF41&fire=FF0040&currStreakLabel=C9D1D9" alt="GitHub Streak" width="400"/>
 </div>
 
----
 
-<div align="center">
-
-## 🧠 **PSYCHOLOGICAL PROFILE** 🧠
-
-</div>
-
-<div align="center">
-
-> ### *"I don't just break into systems — I learn how they think."*
-
-</div>
-
-<details>
-<summary><strong>🔍 EXPAND DOSSIER</strong></summary>
-
-<br>
-
-<table>
-<tr>
-<td width="50%">
-
-### 📋 **Identity Matrix**
-- **Codename:** RedKernel
-- **Origin:** Nigeria 🇳🇬
-- **Primary Domain:** Red Teaming & Kernel Security
-- **Secondary Focus:** Exploit Development & Research
-- **Tertiary Interests:** Malware Internals, Firmware Reversing
-- **Lab Host:** Proxmox VE (Custom Offensive Lab)
-- **Learning Style:** Build-first • Fail-fast • Reflect-always
-
-
-### 🎯 **Current Learning Path**
-- **C Programming Mastery**
-- **Linux Kernel Internals Deep Dive**
-- **x86_64 Assembly Reading & Debugging**
-- **Bash & Python Scripting Automation**
-
-</td>
-<td width="50%">
-
-### 🧭 **Core Philosophy**
-```
-┌────────────────────────────────┐
-│ "Lifelong learner —            │
-│  always leveling up &          │
-│  documenting the journey"      │
-│                                │
-│ Every breach teaches.          │
-│ Every failure strengthens.     │
-│ Every system has a story.      │
-└────────────────────────────────┘
-```
-
-### 📧 **Secure Contact**
-**Encrypted Communications:** `cyberdevhq@proton.me`
-
-</td>
-</tr>
-</table>
-
-</details>
-
----
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│  █▀▀█ █▀▀ █▀▀▄ █  █ █▀▀ █▀▀█ █▀▀▄ █▀▀ █                         |
-│  █▄▄▀ █▀▀ █  █ █▀▀█ █▀▀ █▄▄▀ █  █ █▀▀ █                         |
-│  █    █▄▄ █▄▄▀ █  █ █▄▄ █  █ █▄▄▀ █▄▄ █▄▄                       |
-│                                                                 │
-│               © 2025 • The Ghost in the Machine                 │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=100&section=footer" width="100%"/>
 
