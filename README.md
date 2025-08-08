@@ -33,7 +33,7 @@
 
 <div align="center">
 
-## 🌟 **ABOUT Me** 🌟
+## 🌟 **ABOUT ME** 🌟
 
 </div>
 
