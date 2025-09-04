@@ -36,15 +36,17 @@
 <td width="50%">
 
 ### 🔥 **Core Identity**
-I am **Cyberdev** — an upcoming elite **Offensive Kernel Security Engineer** who operates in the deepest layers of system architecture. My domain is the intersection of **low-level systems research** and **advanced red teaming**.
+I am **Cyberdev** — an upcoming elite **Offensive Kernel Security Engineer** whose craft lies in bending, breaking, and rebuilding the deepest layers of system architecture.  
+My battlefield is the intersection of **kernel exploitation, zero-day research, and advanced red teaming** — where offense and defense collide to forge the future of cybersecurity.  
 
 ### 🎭 **Specialization**
--  **Kernel Exploitation & CVE Reproduction**
--  **eBPF-based Surveillance & Weaponization**  
--  **LSM Hooking & Bypass Strategies**
--  **Syscall Manipulation & Rootkit Engineering**
--  **Persistent Implant Development in Ring 0**
--  **Memory-Safe Kernel Tools**
+- **Linux Kernel Exploitation & CVE Reproduction**  
+- **Fuzzing (AFL++, Syzkaller) & Vulnerability Discovery**  
+- **Syscall Manipulation & Rootkit Engineering**  
+- **eBPF-based Surveillance & Weaponization**  
+- **Persistent Implant Development in Ring 0**  
+- **Memory-Safe Kernel Tooling with Rust**  
+- **Red Team Ops powered by Kernel-Level Access**  
 
 </td>
 <td width="50%">
@@ -60,8 +62,17 @@ I am **Cyberdev** — an upcoming elite **Offensive Kernel Security Engineer** w
 └─────────────────────────────┘
 ```
 
-### 🎯 **Current Focus**
-Building **next-generation offensive tools** that test and ultimately strengthen the foundations of modern computing architecture.
+🎯 Current Focus
+
+- **Building a complete operator bootstrap environment (fire repo) for kernel dev, fuzzing, reversing, and exploitation.**
+
+- **Diving deep into Linux Kernel Internals (building/debugging kernels with sanitizers).**
+
+- **Developing exploits with C, Assembly, Python.**
+
+- **Setting up QEMU/KVM labs for kernel debugging and VM escape research.**
+
+- **Preparing for zero-day hunting by triaging crashes, writing PoCs, and chaining exploits.**
 
 </td>
 </tr>
