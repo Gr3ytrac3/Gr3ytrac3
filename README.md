@@ -1,4 +1,4 @@
-> ![Process Diagram](https://github.com/Gr3ytrac3/Gr3ytrac3/blob/f17d7f6c9964364c19911027f0329074bd40935f/newgr3ytrac3frame.png)
+> ![Process Diagram](https://github.com/Gr3ytrac3/Gr3ytrac3/blob/be34aa3e8bd2ce66335aa50a96eb3d208bfa2c7a/IMG_6569-2.jpg)
 <div align="center">
 
 
