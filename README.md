@@ -1,4 +1,4 @@
-> ![Process Diagram](https://github.com/Gr3ytrac3/Gr3ytrac3/blob/3bb3e760d72df29e59f6a2c1e4894e371a4b2314/kernel-attacks-guide-768x432.webp)
+> ![Process Diagram](https://github.com/Gr3ytrac3/Gr3ytrac3/blob/29fef6644ca986f7135506ab1d54322cfc6805fb/IMG_6569-2.jpg)
 <div align="center">
 
 
