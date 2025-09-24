@@ -35,23 +35,34 @@
 <tr>
 <td width="50%">
 
-### 🔥 **Core Identity**
-I am **Cyberdev** — an upcoming elite **Offensive Kernel Security Engineer** whose craft lies in bending, breaking, and rebuilding the deepest layers of system architecture.  
+### **Who am I**
+I am *Cyberdev* — an upcoming elite **Offensive Kernel Security Engineer** whose craft lies in bending, breaking, and rebuilding the deepest layers of system architecture.  
 My battlefield is the intersection of **kernel exploitation, zero-day research, and advanced red teaming** — where offense and defense collide to forge the future of cybersecurity.  
 
-### 🎭 **Specialization**
-- **Linux Kernel Exploitation & CVE Reproduction**  
-- **Fuzzing (AFL++, Syzkaller) & Vulnerability Discovery**  
-- **Syscall Manipulation & Rootkit Engineering**  
-- **eBPF-based Surveillance & Weaponization**  
-- **Persistent Implant Development in Ring 0**  
-- **Memory-Safe Kernel Tooling with Rust**  
-- **Red Team Ops powered by Kernel-Level Access**  
+---
+### **I spend most of time here**
+- *[SquareBash](https://github.com/Gr3ytrac3/SquareBash)* (*Bash Tools Collection*)
+
+- *[IMPOSSIBLE](https://github.com/Gr3ytrac3/IMPOSSIBLE)* (*revolutionary password cracker*)
+
+- *[Offensive-Kernel-Security-Engineering](https://github.com/Gr3ytrac3/Offensive-Kernel-Security-Engineering)* (*Roadmap*)
+
+- *[Guard-Mount](https://github.com/Gr3ytrac3/Guard-Mount---External-Peripheral-Scanner)* (*External-Peripheral-Scanner*)
+
+---
+
+### **Specialization**
+- *Linux Kernel Exploitation & CVE Reproduction* 
+- *Fuzzing (AFL++, Syzkaller) & Vulnerability Discovery* 
+- *Syscall Manipulation & Rootkit Engineering* 
+- *eBPF-based Surveillance & Weaponization*  
+- *Persistent Implant Development in Ring 0*
+- *Red Team Ops powered by Kernel-Level Access*
 
 </td>
 <td width="50%">
 
-### ⚡ **Philosophy**
+### **Philosophy & Combo**
 ```ascii
 ┌─────────────────────────────┐
 │  "To break the system,      │
@@ -61,18 +72,20 @@ My battlefield is the intersection of **kernel exploitation, zero-day research, 
 │  in the shadows of Ring 0   │
 └─────────────────────────────┘
 ```
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)   
 
-🎯 Current Focus
+---
 
-- **Building a complete operator bootstrap environment (fire repo) for kernel dev, fuzzing, reversing, and exploitation.**
+### **Current Focus**
 
-- **Diving deep into Linux Kernel Internals (building/debugging kernels with sanitizers).**
-
-- **Developing exploits with C, Assembly, Python, Bash.**
-
-- **Setting up QEMU/KVM labs for kernel debugging and VM escape research.**
-
-- **Preparing for zero-day hunting by triaging crashes, writing PoCs, and chaining exploits.**
+- *Diving deep into Linux Kernel Internals (building/debugging kernels with sanitizers).*
+- *Developing exploits with C, Assembly, Python, Bash.*
+- *Preparing for zero-day hunting by triaging crashes, writing PoCs, and chaining exploits.*
 
 </td>
 </tr>
@@ -99,7 +112,6 @@ My battlefield is the intersection of **kernel exploitation, zero-day research, 
 </tr>
 </table>
 </div>
-
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=100&section=footer" width="100%"/>
