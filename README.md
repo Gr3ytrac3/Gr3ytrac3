@@ -53,14 +53,6 @@ My battlefield is the intersection of **kernel exploitation, zero-day research, 
   
 ---
 
-### **Specialization**
-- *Linux Kernel Exploitation & CVE Reproduction* 
-- *Fuzzing (AFL++, Syzkaller) & Vulnerability Discovery* 
-- *Syscall Manipulation & Rootkit Engineering* 
-- *eBPF-based Surveillance & Weaponization*  
-- *Persistent Implant Development in Ring 0*
-- *Red Team Ops powered by Kernel-Level Access*
-
 </td>
 <td width="50%">
 
@@ -80,6 +72,15 @@ My battlefield is the intersection of **kernel exploitation, zero-day research, 
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)   
+
+---
+### **Specialization**
+- *Linux Kernel Exploitation & CVE Reproduction* 
+- *Fuzzing (AFL++, Syzkaller) & Vulnerability Discovery* 
+- *Syscall Manipulation & Rootkit Engineering* 
+- *eBPF-based Surveillance & Weaponization*  
+- *Persistent Implant Development in Ring 0*
+- *Red Team Ops powered by Kernel-Level Access*
 
 ---
 
