@@ -87,7 +87,8 @@ My battlefield is the intersection of **kernel exploitation, zero-day research, 
 - *Diving deep into Linux Kernel Internals (building/debugging kernels with sanitizers).*
 - *Developing exploits with C, Assembly, Python, Bash.*
 - *Preparing for zero-day hunting by triaging crashes, writing PoCs, and chaining exploits.*
-
+  
+<br>
 </td>
 </tr>
 </table>
