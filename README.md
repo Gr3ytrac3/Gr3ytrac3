@@ -42,12 +42,15 @@ My battlefield is the intersection of **kernel exploitation, zero-day research, 
 ---
 ### **I spend most of time here**
 - **[SquareBash](https://github.com/Gr3ytrac3/SquareBash)** (*Bash Tools Collection*)
-
+  
 - **[IMPOSSIBLE](https://github.com/Gr3ytrac3/IMPOSSIBLE)** (*revolutionary password cracker*)
-
-- **[Offensive-Kernel-Security-Engineering](https://github.com/Gr3ytrac3/Offensive-Kernel-Security-Engineering)** (*Roadmap*)
-
+  
 - **[Guard-Mount](https://github.com/Gr3ytrac3/Guard-Mount---External-Peripheral-Scanner)** (*External-Peripheral-Scanner*)
+  
+- **[Linux-kernel-exploitation](https://github.com/Gr3ytrac3/linux-kernel-exploitation/tree/master)** (*A collection of links related to Linux kernel security and exploitation*)
+  
+- **[Offensive-Kernel-Security-Engineering](https://github.com/Gr3ytrac3/Offensive-Kernel-Security-Engineering)** (*Roadmap*)
+  
 
 ---
 
