@@ -41,17 +41,16 @@ My battlefield is the intersection of **kernel exploitation, zero-day research, 
 
 ---
 ### **I spend most of time here**
-- **[SquareBash](https://github.com/Gr3ytrac3/SquareBash)** (*Bash Tools Collection*)
+- **[SquareBash](https://github.com/Gr3ytrac3/SquareBash)** (*A collection of bash scripts, tools, and frameworks*) --> in progress
   
-- **[IMPOSSIBLE](https://github.com/Gr3ytrac3/IMPOSSIBLE)** (*revolutionary password cracker*)
+- **[IMPOSSIBLE](https://github.com/Gr3ytrac3/IMPOSSIBLE)** (*Revolutionary password cracker*) --> in progress
   
-- **[Guard-Mount](https://github.com/Gr3ytrac3/Guard-Mount---External-Peripheral-Scanner)** (*External-Peripheral-Scanner*)
+- **[Guard-Mount](https://github.com/Gr3ytrac3/Guard-Mount---External-Peripheral-Scanner)** (*External-Peripheral-Scanner*) --> in progress
   
-- **[Linux-kernel-exploitation](https://github.com/Gr3ytrac3/linux-kernel-exploitation/tree/master)** (*A collection of links related to Linux kernel security and exploitation*)
+- **[Linux-kernel-exploitation](https://github.com/Gr3ytrac3/linux-kernel-exploitation/tree/master)** (*A collection of links related to Linux kernel security and exploitation*) --> Constant Updates
   
-- **[Offensive-Kernel-Security-Engineering](https://github.com/Gr3ytrac3/Offensive-Kernel-Security-Engineering)** (*Roadmap*)
+- **[Offensive-Kernel-Security-Engineering](https://github.com/Gr3ytrac3/Offensive-Kernel-Security-Engineering)** (*Building a repeatable path from foundations: Roadmap*) --> Constant Updates
   
-
 ---
 
 ### **Specialization**
