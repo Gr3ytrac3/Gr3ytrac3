@@ -50,8 +50,6 @@ My battlefield is the intersection of **kernel exploitation, zero-day research, 
 - **[Linux-kernel-exploitation](https://github.com/Gr3ytrac3/linux-kernel-exploitation/tree/master)** (*A collection of links related to Linux kernel security and exploitation*) --> Constant Updates
   
 - **[Offensive-Kernel-Security-Engineering](https://github.com/Gr3ytrac3/Offensive-Kernel-Security-Engineering)** (*Building a repeatable path from foundations: Roadmap*) --> Constant Updates
-  
----
 
 </td>
 <td width="50%">
