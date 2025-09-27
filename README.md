@@ -1,29 +1,3 @@
-> ![Process Diagram](https://github.com/Gr3ytrac3/Gr3ytrac3/blob/c535fa564af8e971c65aafc032c84f5245dc06b9/mainbanner.png)
-<div align="center">
-
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF0040&center=true&vCenter=true&multiline=true&width=600&height=80&lines=The+Ghost+in+the+Machine;Ring+0+Architect+%E2%80%A2+Digital+Phantom" alt="Typing SVG" />
-
-<br>
-
-[![](https://img.shields.io/badge/💀-Kernel%20Necromancer-FF0040?style=for-the-badge&labelColor=000000)](https://github.com/Gr3ytrac3)
-[![](https://img.shields.io/badge/🎯-System%20Infiltrator-00FF41?style=for-the-badge&labelColor=000000)](https://github.com/Gr3ytrac3)
-[![](https://img.shields.io/badge/⚡-Digital%20Phantom-9D00FF?style=for-the-badge&labelColor=000000)](https://github.com/Gr3ytrac3)
-
-<br>
-
-> ### *"When others see code, I see doorways. When others see security, I see opportunities."*
-
-<br>
-
-![](https://img.shields.io/badge/Status-Haunting%20Ring%200-FF0040?style=flat-square&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/Role-Master%20of%20Digital%20Disguise-00FF41?style=flat-square&logo=ghost&logoColor=white)
-![](https://img.shields.io/badge/Access-Keeper%20of%20Hidden%20Keys-9D00FF?style=flat-square&logo=key&logoColor=white)
-
-</div>
-
----
 
 <div align="center">
 
