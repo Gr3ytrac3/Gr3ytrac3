@@ -23,9 +23,14 @@
 <tr>
 <td width="50%">
 
-### **Who am I**
-I am *Cyberdev* — an upcoming elite **Offensive Kernel Security Engineer** whose craft lies in bending, breaking, and rebuilding the deepest layers of system architecture.  
-My battlefield is the intersection of **kernel exploitation, zero-day research, and advanced red teaming** — where offense and defense collide to forge the future of cybersecurity.  
+### **About Me**
+
+Hey there — I’m **Cyberdev**, an **Offensive Kernel Security Engineer in the making**, passionate about exploring the core of systems, breaking them apart, and building them back stronger.
+I live at the intersection of **kernel exploitation**, **red teaming**, and **creative cybersecurity engineering** — where curiosity fuels innovation and every challenge is a puzzle waiting to be solved.
+
+> *I love building, breaking, and learning — all in the pursuit of better security.*
+
+[🔗 Visit my GitHub →](https://github.com/Gr3ytrac3)
 
 ---
 ### **I spend most of my time here 👇🏻**
@@ -58,6 +63,8 @@ My battlefield is the intersection of **kernel exploitation, zero-day research, 
 └─────────────────────────────┘
 ```
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
@@ -77,8 +84,8 @@ My battlefield is the intersection of **kernel exploitation, zero-day research, 
 
 ### **Current Focus**
 
-- *Diving deep into Linux Kernel Internals (building/debugging kernels with sanitizers).*
-- *Developing exploits with C, Assembly, Python, Bash.*
+- *Deepening Linux kernel internals: building and debugging kernels (QEMU/KVM, Proxmox), using sanitizers (KASAN/UBSAN) and kgdb for deterministic triage.*
+- *Exploit engineering: developing PoCs and exploit chains in C, x86_64/ARM64 assembly, and Python/Bash tooling for automation and analysis.*
 - *Preparing for zero-day hunting by triaging crashes, writing PoCs, and chaining exploits.*
   
 <br>
