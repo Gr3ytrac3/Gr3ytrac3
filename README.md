@@ -28,14 +28,19 @@ I am *Cyberdev* — an upcoming elite **Offensive Kernel Security Engineer** who
 My battlefield is the intersection of **kernel exploitation, zero-day research, and advanced red teaming** — where offense and defense collide to forge the future of cybersecurity.  
 
 ---
-### **I spend most of time here**
+### **I spend most of my time here 👇🏻**
+
+- **[The OffSec Desk](https://github.com/The-OffSec-Desk)** (*Forging Advanced Desktop-Based Offensive and Defensive Security Tools*)
+
+- **[Talon OS](https://github.com/TalonOS-org)** (*Building a precision-engineered Linux distribution built exclusively for Open Source Intelligence operations.*)
+
 - **[SquareBash](https://github.com/Gr3ytrac3/SquareBash)** (*A collection of bash scripts, tools, and frameworks*)
   
 - **[IMPOSSIBLE](https://github.com/Gr3ytrac3/IMPOSSIBLE)** (*Revolutionary password cracker*)
-  
+
 - **[Guard-Mount](https://github.com/Gr3ytrac3/Guard-Mount---External-Peripheral-Scanner)** (*External-Peripheral-Scanner*)
   
-- **[Linux-kernel-exploitation](https://github.com/Gr3ytrac3/linux-kernel-exploitation/tree/master)** (*A collection of links related to Linux kernel security and exploitation*)
+- **[Linux-kernel-exploitation](https://github.com/Gr3ytrac3/linux-kernel-exploitation/tree/master)** (*A collection of resources related to Linux kernel security and exploitation*)
   
 - **[Offensive-Kernel-Security-Engineering](https://github.com/Gr3ytrac3/Offensive-Kernel-Security-Engineering)** (*Building a repeatable path from foundations: Roadmap*)
 
