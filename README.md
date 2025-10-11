@@ -30,7 +30,6 @@ I live at the intersection of **kernel exploitation**, **red teaming**, and **cr
 
 > *I love building, breaking, and learning — all in the pursuit of better security.*
 
-[🔗 Visit my GitHub →](https://github.com/Gr3ytrac3)
 
 ---
 ### **I spend most of my time here 👇🏻**
