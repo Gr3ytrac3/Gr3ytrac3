@@ -78,6 +78,7 @@ I live at the intersection of **kernel exploitation**, **red teaming**, and **cr
 - *eBPF-based Surveillance & Weaponization*  
 - *Persistent Implant Development in Ring 0*
 - *Red Team Ops powered by Kernel-Level Access*
+- *Reverse Engineering*
 
 ---
 
@@ -85,6 +86,7 @@ I live at the intersection of **kernel exploitation**, **red teaming**, and **cr
 
 - *Deepening Linux kernel internals: building and debugging kernels (QEMU/KVM, Proxmox), using sanitizers (KASAN/UBSAN) and kgdb for deterministic triage.*
 - *Exploit engineering: developing PoCs and exploit chains in C, x86_64/ARM64 assembly, and Python/Bash tooling for automation and analysis.*
+- *Reverse Engineering*
 - *Preparing for zero-day hunting by triaging crashes, writing PoCs, and chaining exploits.*
   
 <br>
