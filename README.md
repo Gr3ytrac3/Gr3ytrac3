@@ -47,6 +47,8 @@ I live at the intersection of **kernel exploitation**, **red teaming**, and **cr
 - **[Linux-kernel-exploitation](https://github.com/Gr3ytrac3/linux-kernel-exploitation/tree/master)** (*A collection of resources related to Linux kernel security and exploitation*)
   
 - **[Offensive-Kernel-Security-Engineering](https://github.com/Gr3ytrac3/Offensive-Kernel-Security-Engineering)** (*Building a repeatable path from foundations: Roadmap*)
+  
+- **[linux-insides](https://github.com/0xAX/linux-insides/tree/master)** (*Everything about the Linux kernel and its insides*)
 
 </td>
 <td width="50%">
