@@ -40,10 +40,6 @@ I live at the intersection of **kernel exploitation**, **red teaming**, and **cr
 
 - **[SquareBash](https://github.com/Gr3ytrac3/SquareBash)** (*A collection of bash scripts, tools, and frameworks*)
   
-- **[IMPOSSIBLE](https://github.com/Gr3ytrac3/IMPOSSIBLE)** (*Revolutionary password cracker*)
-
-- **[Guard-Mount](https://github.com/Gr3ytrac3/Guard-Mount---External-Peripheral-Scanner)** (*External-Peripheral-Scanner*)
-  
 - **[Linux-kernel-exploitation](https://github.com/Gr3ytrac3/linux-kernel-exploitation/tree/master)** (*A collection of resources related to Linux kernel security and exploitation*)
   
 - **[Offensive-Kernel-Security-Engineering](https://github.com/Gr3ytrac3/Offensive-Kernel-Security-Engineering)** (*Building a repeatable path from foundations: Roadmap*)
