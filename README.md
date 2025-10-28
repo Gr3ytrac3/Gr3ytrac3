@@ -36,8 +36,6 @@ I live at the intersection of **kernel exploitation**, **red teaming**, and **cr
 
 - **[The OffSec Desk](https://github.com/The-OffSec-Desk)** (*Forging Advanced Desktop-Based Offensive and Defensive Security Tools*)
 
-- **[Talon OS](https://github.com/TalonOS-org)** (*Building a precision-engineered Linux distribution built exclusively for Open Source Intelligence operations.*)
-
 - **[SquareBash](https://github.com/Gr3ytrac3/SquareBash)** (*A collection of bash scripts, tools, and frameworks*)
   
 - **[Linux-kernel-exploitation](https://github.com/Gr3ytrac3/linux-kernel-exploitation/tree/master)** (*A collection of resources related to Linux kernel security and exploitation*)
