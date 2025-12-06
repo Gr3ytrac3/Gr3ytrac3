@@ -94,22 +94,7 @@ I live at the intersection of **kernel exploitation**, **red teaming**, and **cr
 
 <div align="center">
 
-## 📊 **GITHUB ANALYTICS** 📊
 
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gr3ytrac3&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=merko&icon_color=merko&text_color=C9D1D9" alt="GitHub Stats" width="400"/>
-</td>
-<td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gr3ytrac3&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=merko&text_color=C9D1D9" alt="Top Languages" width="400"/>
-</td>
-</tr>
-</table>
-</div>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=100&section=footer" width="100%"/>
