@@ -44,6 +44,8 @@ I live at the intersection of **kernel exploitation**, **red teaming**, and **cr
   
 - **[linux-insides](https://github.com/0xAX/linux-insides/tree/master)** (*Everything about the Linux kernel and its insides*)
 
+- **[Linux](https://github.com/Gr3ytrac3/linux)** (*The Linux kernel*)
+
 </td>
 <td width="50%">
 
