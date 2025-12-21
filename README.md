@@ -1,7 +1,9 @@
-> ![Process Diagram](https://github.com/Gr3ytrac3/Gr3ytrac3/blob/4195b8871181f1d0c6f587fa3679d101f5d6f5f4/frame.png)
 <div align="center">
 
+> ![Process Diagram](https://www.crowdstrike.com/content/dam/crowdstrike/marketing/en-us/icons/blog/Front-Lines.svg)
+<div align="center">
 
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF0040&center=true&vCenter=true&multiline=true&width=600&height=80&lines=The+Ghost+in+the+Machine;Ring+0+Architect+%E2%80%A2+Digital+Phantom" alt="Typing SVG" />
 
@@ -32,19 +34,14 @@ I live at the intersection of **kernel exploitation**, **red teaming**, and **cr
 
 
 ---
-### **I spend most of my time here 👇🏻**
-
-- **[The OffSec Desk](https://github.com/The-OffSec-Desk)** (*Forging Advanced Desktop-Based Offensive and Defensive Security Tools*)
-
-- **[SquareBash](https://github.com/Gr3ytrac3/SquareBash)** (*A collection of bash scripts, tools, and frameworks*)
-  
-- **[Linux-kernel-exploitation](https://github.com/Gr3ytrac3/linux-kernel-exploitation/tree/master)** (*A collection of resources related to Linux kernel security and exploitation*)
-  
-- **[Offensive-Kernel-Security-Engineering](https://github.com/Gr3ytrac3/Offensive-Kernel-Security-Engineering)** (*Building a repeatable path from foundations: Roadmap*)
-  
-- **[linux-insides](https://github.com/0xAX/linux-insides/tree/master)** (*Everything about the Linux kernel and its insides*)
-
-- **[Linux](https://github.com/Gr3ytrac3/linux)** (*The Linux kernel*)
+### **Specialization**
+- *Linux Kernel Exploitation & CVE Reproduction* 
+- *Fuzzing (AFL++, Syzkaller) & Vulnerability Discovery* 
+- *Syscall Manipulation & Rootkit Engineering* 
+- *eBPF-based Surveillance & Weaponization*  
+- *Persistent Implant Development in Ring 0*
+- *Red Team Ops powered by Kernel-Level Access*
+- *Reverse Engineering*
 
 </td>
 <td width="50%">
@@ -68,23 +65,14 @@ I live at the intersection of **kernel exploitation**, **red teaming**, and **cr
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)   
 
 ---
-### **Specialization**
-- *Linux Kernel Exploitation & CVE Reproduction* 
-- *Fuzzing (AFL++, Syzkaller) & Vulnerability Discovery* 
-- *Syscall Manipulation & Rootkit Engineering* 
-- *eBPF-based Surveillance & Weaponization*  
-- *Persistent Implant Development in Ring 0*
-- *Red Team Ops powered by Kernel-Level Access*
-- *Reverse Engineering*
 
 ---
 
 ### **Current Focus**
 
 - *Deepening Linux kernel internals: building and debugging kernels (QEMU/KVM, Proxmox), using sanitizers (KASAN/UBSAN) and kgdb for deterministic triage.*
-- *Exploit engineering: developing PoCs and exploit chains in C, x86_64/ARM64 assembly, and Python/Bash tooling for automation and analysis.*
+- *Mastering C, x86_64/ARM64 assembly, and Python/Bash scripting for automation, tooling and analysis.*
 - *Reverse Engineering*
-- *Preparing for zero-day hunting by triaging crashes, writing PoCs, and chaining exploits.*
   
 <br>
 </td>
