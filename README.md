@@ -1,6 +1,6 @@
 <div align="center">
 
-> ![Process Diagram](https://www.crowdstrike.com/content/dam/crowdstrike/marketing/en-us/icons/blog/Front-Lines.svg)
+ ![Process Diagram](https://www.crowdstrike.com/content/dam/crowdstrike/marketing/en-us/icons/blog/Front-Lines.svg)
 <div align="center">
 
 </div>
