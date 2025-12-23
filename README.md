@@ -58,7 +58,6 @@ I live at the intersection of **kernel exploitation**, **red teaming**, and **cr
 ```
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
