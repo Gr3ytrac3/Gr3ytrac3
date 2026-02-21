@@ -28,7 +28,7 @@
 ### **About Me**
 
 Hey there — I’m **Cyberdev**, an **Offensive Kernel Security Engineer in the making**, passionate about exploring the core of systems, breaking them apart, and building them back stronger.
-I live at the intersection of **kernel exploitation**, **red teaming**, and **creative cybersecurity engineering** — where curiosity fuels innovation and every challenge is a puzzle waiting to be solved.
+Currently spending my time in Ring 0, where the margin for error is zero and the puzzles are most rewarding.
 
 > *I love building, breaking, and learning — all in the pursuit of better security.*
 
@@ -40,7 +40,7 @@ I live at the intersection of **kernel exploitation**, **red teaming**, and **cr
 - *Syscall Manipulation & Rootkit Engineering* 
 - *eBPF-based Surveillance & Weaponization*  
 - *Persistent Implant Development in Ring 0*
-- *Red Team Ops powered by Kernel-Level Access*
+- *Red Team Ops leveraging Kernel-Level Access*
 - *Reverse Engineering* & *Debugging*
 
 </td>
