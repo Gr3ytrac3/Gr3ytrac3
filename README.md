@@ -35,11 +35,11 @@ Currently spending my time in Ring 0, where the margin for error is zero and the
 
 ---
 ### **Specialization**
-- *Linux Kernel Exploitation & CVE Reproduction* 
-- *Fuzzing (AFL++, Syzkaller) & Vulnerability Discovery* 
-- *Syscall Manipulation & Rootkit Engineering* 
+- *Linux Kernel Exploitation - CVE Research & Exploitation (in progress)* 
+- *Fuzzing & Vulnerability Discovery - AFL++, Syzkaller (active learning)* 
+- *Syscall Analysis & Rootkit Engineering (research phase)* 
 - *eBPF-based Surveillance & Weaponization*  
-- *Persistent Implant Development in Ring 0*
+- *Kernel-Level Implant Research - Ring 0 (research phase)*
 - *Red Team Ops leveraging Kernel-Level Access*
 - *Reverse Engineering* & *Debugging*
 
