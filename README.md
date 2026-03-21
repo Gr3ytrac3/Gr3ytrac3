@@ -1,91 +1,123 @@
 <div align="center">
 
- ![Process Diagram](https://www.crowdstrike.com/content/dam/crowdstrike/marketing/en-us/icons/blog/Front-Lines.svg)
-<div align="center">
+<!-- DARK HEADER PANEL (SVG in repo — supports dark bg, custom styles) -->
+<img src="./header.svg" width="100%" alt="GR3YTRAC3 — The Ghost in the Machine"/>
 
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF0040&center=true&vCenter=true&multiline=true&width=600&height=80&lines=The+Ghost+in+the+Machine;Ring+0+Architect+%E2%80%A2+Digital+Phantom" alt="Typing SVG" />
-
-<br>
-
-[![](https://img.shields.io/badge/💀-Kernel%20Necromancer-FF0040?style=for-the-badge&labelColor=000000)](https://github.com/Gr3ytrac3)
-[![](https://img.shields.io/badge/🎯-System%20Infiltrator-00FF41?style=for-the-badge&labelColor=000000)](https://github.com/Gr3ytrac3)
-[![](https://img.shields.io/badge/⚡-Digital%20Phantom-9D00FF?style=for-the-badge&labelColor=000000)](https://github.com/Gr3ytrac3)
-
-
 ---
+
+<!-- PRIVILEGE STATUS PILLS -->
 <div align="center">
 
-## 🌟 **ABOUT ME** 🌟
+![](https://img.shields.io/badge/PRIVILEGE_LEVEL-RING_0-FF0040?style=flat-square&labelColor=0a0a0a&logo=linux&logoColor=FF0040)
+![](https://img.shields.io/badge/STATUS-ACTIVE_LEARNING-00FF41?style=flat-square&labelColor=0a0a0a)
+![](https://img.shields.io/badge/MODE-BUILD→BREAK→REBUILD-9D00FF?style=flat-square&labelColor=0a0a0a)
 
 </div>
 
-<table align="center">
-<tr>
-<td width="50%">
-
-### **About Me**
-
-Hey there — I’m **Cyberdev**, an **Offensive Kernel Security Engineer in the making**, passionate about exploring the core of systems, breaking them apart, and building them back stronger.
-Currently spending my time in Ring 0, where the margin for error is zero and the puzzles are most rewarding.
-
-> *I love building, breaking, and learning — all in the pursuit of better security.*
-
-
 ---
-### **Specialization**
-- *Linux Kernel Exploitation - CVE Research & Exploitation (in progress)* 
-- *Fuzzing & Vulnerability Discovery - AFL++, Syzkaller (active learning)* 
-- *Syscall Analysis & Rootkit Engineering (research phase)* 
-- *eBPF-based Surveillance & Weaponization*  
-- *Kernel-Level Implant Research - Ring 0 (research phase)*
-- *Red Team Ops leveraging Kernel-Level Access*
-- *Reverse Engineering* & *Debugging*
 
-</td>
-<td width="50%">
+## `> IDENTIFICATION PROTOCOL`
 
-### **Philosophy & Combo**
-```ascii
-┌─────────────────────────────┐
-│  "To break the system,      │
-│   I become the system."     │
-│                             │
-│  Operating beyond detection │
-│  in the shadows of Ring 0   │
-└─────────────────────────────┘
 ```
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)   
+┌─────────────────────────────────────────────────────────────────┐
+│  root@ring0:~# whoami                                           │
+│                                                                 │
+│  > Offensive Kernel Security Engineer — in the making.          │
+│  > Passionate about the core of systems: breaking them apart,   │
+│    building them back stronger.                                 │
+│  > Zero margin for error. Maximum intellectual reward.          │
+│                                                                 │
+│  root@ring0:~# cat /proc/philosophy                             │
+│                                                                 │
+│  "To break the system,                                          │
+│   I become the system."                                         │
+│                                                                 │
+│  Operating beyond detection in the shadows of Ring 0.           │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
----
-
-### **Current Focus**
-
-- *Deepening Linux kernel internals: building and debugging kernels (QEMU/KVM, Proxmox), using sanitizers (KASAN/UBSAN) and kgdb for deterministic triage.*
-- *Mastering C, x86_64/ARM64 assembly, and Python/Bash scripting for automation, tooling and analysis.*
-- *Reverse Engineering* & *Debugging*
-  
-<br>
-</td>
-</tr>
-</table>
-
-
-
+## `> SPECIALIZATION STACK`
 
 <div align="center">
 
+| Module | Domain | Status |
+|--------|---------|--------|
+| `kernel_exploit.c` | Linux Kernel Exploitation · CVE Research | ![](https://img.shields.io/badge/IN_PROGRESS-FF0040?style=flat-square&labelColor=0d0d0d) |
+| `fuzzer.py` | AFL++ · Syzkaller · Vulnerability Discovery | ![](https://img.shields.io/badge/ACTIVE_LEARNING-FF6600?style=flat-square&labelColor=0d0d0d) |
+| `syscall_tracer.s` | Syscall Analysis · Rootkit Engineering | ![](https://img.shields.io/badge/RESEARCH_PHASE-9D00FF?style=flat-square&labelColor=0d0d0d) |
+| `ebpf_weapon.bpf.c` | eBPF-based Surveillance · Weaponization | ![](https://img.shields.io/badge/DEPLOYED-00FF41?style=flat-square&labelColor=0d0d0d) |
+| `ring0_implant.c` | Kernel-Level Implant Research | ![](https://img.shields.io/badge/RESEARCH_PHASE-9D00FF?style=flat-square&labelColor=0d0d0d) |
+| `redteam_ops.sh` | Red Team Ops · Kernel-Level Access | ![](https://img.shields.io/badge/ACTIVE-FF0040?style=flat-square&labelColor=0d0d0d) |
+| `reveng.asm` | Reverse Engineering · Debugging | ![](https://img.shields.io/badge/CONTINUOUS-00FF41?style=flat-square&labelColor=0d0d0d) |
 
+</div>
 
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=13&height=100&section=footer" width="100%"/>
+## `> LANGUAGE ARSENAL`
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0a0a0a)
+![C++](https://img.shields.io/badge/C++-004488?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0a0a0a)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black&labelColor=0a0a0a)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0a0a0a)
+![Assembly](https://img.shields.io/badge/x86__64_ASM-FF0040?style=for-the-badge&logo=assemblyscript&logoColor=white&labelColor=0a0a0a)
+![ARM64](https://img.shields.io/badge/ARM64_ASM-9D00FF?style=for-the-badge&logo=arm&logoColor=white&labelColor=0a0a0a)
+![Linux](https://img.shields.io/badge/GNU%2FLinux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0a0a)
+![eBPF](https://img.shields.io/badge/eBPF-00FF41?style=for-the-badge&logo=linux&logoColor=black&labelColor=0a0a0a)
+
+</div>
+
+---
+
+## `> CURRENT FOCUS`
+
+```python
+focus = {
+    "kernel_internals": [
+        "Building & debugging kernels (QEMU/KVM, Proxmox)",
+        "Sanitizer-driven triage: KASAN, UBSAN",
+        "Deterministic debugging with kgdb",
+    ],
+    "low_level_mastery": [
+        "C language internals & memory model",
+        "x86_64 and ARM64 assembly",
+        "Python & Bash for automation, tooling, analysis",
+    ],
+    "ongoing": [
+        "Reverse Engineering & dynamic analysis",
+        "CVE triage & exploitation research",
+        "Kernel implant architecture (Ring 0)",
+    ]
+}
+```
+
+---
+
+## `> STATS`
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gr3ytrac3&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF0040&text_color=c8c8d4" width="340"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gr3ytrac3&theme=radical&hide_border=true&background=0d0d0d&ring=FF0040&fire=FF6600&currStreakLabel=FF0040&sideLabels=00FF41&dates=666666" width="380"/>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://img.shields.io/badge/PHANTOM-ONLINE-00FF41?style=flat-square&labelColor=0a0a0a&logo=linux&logoColor=00FF41)
+![Profile Views](https://komarev.com/ghpvc/?username=Gr3ytrac3&color=FF0040&style=flat-square&label=INTRUSIONS_DETECTED)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF0040,9D00FF,000000&height=80&section=footer&reversal=false" width="100%"/>
 
 </div>
