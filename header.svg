@@ -1,0 +1,88 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;family=Rajdhani:wght@700&amp;display=swap');
+      .title { font-family: 'Rajdhani', 'Share Tech Mono', monospace; font-size: 52px; font-weight: 700; fill: #FF0040; letter-spacing: 0.15em; }
+      .sub   { font-family: 'Share Tech Mono', monospace; font-size: 11.5px; fill: #00FF41; letter-spacing: 0.28em; }
+      .badge-text { font-family: 'Share Tech Mono', monospace; font-size: 10px; font-weight: 600; letter-spacing: 0.12em; }
+      .dim   { font-family: 'Share Tech Mono', monospace; font-size: 10px; fill: #444; letter-spacing: 0.2em; }
+    </style>
+    <!-- Scanline pattern -->
+    <pattern id="scan" x="0" y="0" width="1" height="4" patternUnits="userSpaceOnUse">
+      <rect width="1" height="1" fill="rgba(0,0,0,0.06)"/>
+    </pattern>
+    <!-- Red glow gradient -->
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF0040" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+    <!-- Top edge accent -->
+    <linearGradient id="topline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF0040" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#FF0040" stop-opacity="0.8"/>
+      <stop offset="70%" stop-color="#FF0040" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#FF0040" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="botline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF0040" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#9D00FF" stop-opacity="0.5"/>
+      <stop offset="70%" stop-color="#9D00FF" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#9D00FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Dark background -->
+  <rect width="900" height="260" fill="#050507"/>
+  <!-- Scanlines overlay -->
+  <rect width="900" height="260" fill="url(#scan)"/>
+  <!-- Radial glow -->
+  <rect width="900" height="260" fill="url(#glow)"/>
+
+  <!-- Corner brackets TL -->
+  <polyline points="20,50 20,20 50,20" fill="none" stroke="#FF0040" stroke-width="1.5" stroke-opacity="0.6"/>
+  <!-- Corner brackets TR -->
+  <polyline points="880,50 880,20 850,20" fill="none" stroke="#FF0040" stroke-width="1.5" stroke-opacity="0.6"/>
+  <!-- Corner brackets BL -->
+  <polyline points="20,210 20,240 50,240" fill="none" stroke="#9D00FF" stroke-width="1.5" stroke-opacity="0.5"/>
+  <!-- Corner brackets BR -->
+  <polyline points="880,210 880,240 850,240" fill="none" stroke="#9D00FF" stroke-width="1.5" stroke-opacity="0.5"/>
+
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="900" height="2" fill="url(#topline)"/>
+  <!-- Bottom accent line -->
+  <rect x="0" y="258" width="900" height="2" fill="url(#botline)"/>
+
+  <!-- Vertical side marks -->
+  <rect x="0" y="0" width="1" height="260" fill="#FF0040" opacity="0.15"/>
+  <rect x="899" y="0" width="1" height="260" fill="#FF0040" opacity="0.15"/>
+
+  <!-- TITLE -->
+  <text x="450" y="108" text-anchor="middle" class="title">GR3YTRAC3</text>
+
+  <!-- Subtitle -->
+  <text x="450" y="138" text-anchor="middle" class="sub">THE GHOST IN THE MACHINE · RING 0 ARCHITECT · DIGITAL PHANTOM</text>
+
+  <!-- Divider line -->
+  <line x1="120" y1="155" x2="780" y2="155" stroke="#FF0040" stroke-width="0.5" stroke-opacity="0.25"/>
+
+  <!-- Badges row -->
+  <!-- Badge 1: Kernel Necromancer -->
+  <rect x="176" y="166" width="170" height="28" rx="2" fill="#FF004018" stroke="#FF0040" stroke-width="0.8" stroke-opacity="0.6"/>
+  <text x="261" y="184" text-anchor="middle" class="badge-text" fill="#FF0040">💀 KERNEL NECROMANCER</text>
+
+  <!-- Badge 2: System Infiltrator -->
+  <rect x="365" y="166" width="170" height="28" rx="2" fill="#00FF4112" stroke="#00FF41" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="450" y="184" text-anchor="middle" class="badge-text" fill="#00FF41">🎯 SYSTEM INFILTRATOR</text>
+
+  <!-- Badge 3: Digital Phantom -->
+  <rect x="554" y="166" width="170" height="28" rx="2" fill="#9D00FF15" stroke="#9D00FF" stroke-width="0.8" stroke-opacity="0.5"/>
+  <text x="639" y="184" text-anchor="middle" class="badge-text" fill="#9D00FF">⚡ DIGITAL PHANTOM</text>
+
+  <!-- Status row -->
+  <text x="450" y="232" text-anchor="middle" class="dim">[ privilege: RING 0 · kernel space · mode: build → break → rebuild ]</text>
+
+  <!-- Pulse dot -->
+  <circle cx="233" cy="228" r="3" fill="#00FF41" opacity="0.9"/>
+  <circle cx="233" cy="228" r="6" fill="none" stroke="#00FF41" stroke-width="0.5" opacity="0.4"/>
+  <text x="242" y="232" class="dim" fill="#00FF41" font-size="9" letter-spacing="0.15em">ONLINE</text>
+</svg>
