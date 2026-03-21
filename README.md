@@ -21,21 +21,21 @@
 ## `> IDENTIFICATION PROTOCOL`
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  root@ring0:~# whoami                                           │
-│                                                                 │
-│  > Offensive Kernel Security Engineer — in the making.          │
-│  > Passionate about the core of systems: breaking them apart,   │
-│    building them back stronger.                                 │
-│  > Zero margin for error. Maximum intellectual reward.          │
-│                                                                 │
-│  root@ring0:~# cat /proc/philosophy                             │
-│                                                                 │
-│  "To break the system,                                          │
-│   I become the system."                                         │
-│                                                                 │
-│  Operating beyond detection in the shadows of Ring 0.           │
-└─────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│  root@ring0:~# whoami                                               │
+│                                                                     │
+│  > Offensive Kernel Security Engineer/Researcher — in the making.   │
+│  > Passionate about the core of systems: breaking them apart,       │
+│    building them back stronger,and documenting.                     │
+│  > Zero margin for error. Maximum intellectual reward.              │
+│                                                                     │
+│  root@ring0:~# cat /proc/philosophy                                 │
+│                                                                     │
+│  "To break the system,                                              │
+│   I become the system."                                             │ 
+│                                                                     │
+│  Operating beyond detection.                                        │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -49,7 +49,7 @@
 | `kernel_exploit.c` | Linux Kernel Exploitation · CVE Research | ![](https://img.shields.io/badge/IN_PROGRESS-FF0040?style=flat-square&labelColor=0d0d0d) |
 | `fuzzer.py` | AFL++ · Syzkaller · Vulnerability Discovery | ![](https://img.shields.io/badge/ACTIVE_LEARNING-FF6600?style=flat-square&labelColor=0d0d0d) |
 | `syscall_tracer.s` | Syscall Analysis · Rootkit Engineering | ![](https://img.shields.io/badge/RESEARCH_PHASE-9D00FF?style=flat-square&labelColor=0d0d0d) |
-| `ebpf_weapon.bpf.c` | eBPF-based Surveillance · Weaponization | ![](https://img.shields.io/badge/DEPLOYED-00FF41?style=flat-square&labelColor=0d0d0d) |
+| `ebpf_weapon.bpf.c` | eBPF-based Surveillance · Weaponization | ![](https://img.shields.io/badge/UPCOMING-00FF41?style=flat-square&labelColor=0d0d0d) |
 | `ring0_implant.c` | Kernel-Level Implant Research | ![](https://img.shields.io/badge/RESEARCH_PHASE-9D00FF?style=flat-square&labelColor=0d0d0d) |
 | `redteam_ops.sh` | Red Team Ops · Kernel-Level Access | ![](https://img.shields.io/badge/ACTIVE-FF0040?style=flat-square&labelColor=0d0d0d) |
 | `reveng.asm` | Reverse Engineering · Debugging | ![](https://img.shields.io/badge/CONTINUOUS-00FF41?style=flat-square&labelColor=0d0d0d) |
@@ -90,9 +90,10 @@ focus = {
         "Python & Bash for automation, tooling, analysis",
     ],
     "ongoing": [
-        "Reverse Engineering & dynamic analysis",
-        "CVE triage & exploitation research",
-        "Kernel implant architecture (Ring 0)",
+        "Reverse Engineering & analysis",
+        "Deep learning & exploitation research",
+        "Solving Reverse Eng challenges and deep Linux mastery",
+        "Tooling, built from scratch and working on projects"
     ]
 }
 ```
