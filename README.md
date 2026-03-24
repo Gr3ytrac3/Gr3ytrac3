@@ -27,8 +27,7 @@
 │  > Offensive Kernel Security Engineer/Researcher — in the making.   │
 │  > Passionate about the core of systems: breaking them apart,       │
 │    building them back stronger,and documenting.                     │
-│  > Zero margin for error. Maximum intellectual reward.              │
-│                                                                     │
+│                                                                     │                                                                     │
 │  root@ring0:~# cat /proc/philosophy                                 │
 │                                                                     │
 │  "To break the system,                                              │
