@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- DARK HEADER PANEL (SVG in repo — supports dark bg, custom styles) -->
-<img src="./header.svg" width="100%" alt="GR3YTRAC3 — The Ghost in the Machine"/>
+<img src="https://github.com/Gr3ytrac3/Gr3ytrac3/blob/fa3e47fbb1956afe55458d754308cb1706bcfef0/-uvauo8.jpg" width="100%" alt="GR3YTRAC3 — The Ghost in the Machine"/>
 
 </div>
 
@@ -69,9 +69,6 @@
 ---
 
 <div align="center">
-
-![](https://img.shields.io/badge/PHANTOM-ONLINE-00FF41?style=flat-square&labelColor=0a0a0a&logo=linux&logoColor=00FF41)
-![Profile Views](https://komarev.com/ghpvc/?username=Gr3ytrac3&color=FF0040&style=flat-square&label=INTRUSIONS_DETECTED)
 
 <br/>
 
