@@ -7,17 +7,6 @@
 
 ---
 
-<!-- PRIVILEGE STATUS PILLS -->
-<div align="center">
-
-![](https://img.shields.io/badge/PRIVILEGE_LEVEL-RING_0-FF0040?style=flat-square&labelColor=0a0a0a&logo=linux&logoColor=FF0040)
-![](https://img.shields.io/badge/STATUS-ACTIVE_LEARNING-00FF41?style=flat-square&labelColor=0a0a0a)
-![](https://img.shields.io/badge/MODE-BUILD→BREAK→REBUILD-9D00FF?style=flat-square&labelColor=0a0a0a)
-
-</div>
-
----
-
 ## `> IDENTIFICATION PROTOCOL`
 
 ```
