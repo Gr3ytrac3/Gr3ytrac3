@@ -57,6 +57,15 @@
 
 ---
 
+
+## **GITHUB UNIVERSE**
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gr3ytrac3&show_icons=true&theme=tokyonight&hide_border=true&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&bg_color=0D1117" width="400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gr3ytrac3&layout=compact&langs_count=6&theme=radical&hide_border=true" width="300" />
+</p>
+
+---
+
 <div align="center">
 
 <br/>
