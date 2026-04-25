@@ -10,25 +10,18 @@
 ## `> A little about me`
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│  root@ring0:~# whoami                                               │
-│                                                                     │
-│  > Offensive Kernel Security Engineer/Researcher — in the making.   │
-│  > Passionate about the core of systems: breaking them apart,       │
-│    building them back stronger,and documenting.                     |
-│                                                                     │ 
-│  root@ring0:~# cat /proc/philosophy                                 │
-│                                                                     │
-│  "To break the system,                                              │
-│   I become the system."                                             │ 
-│                                                                     │
-│  Operating beyond detection.                                        │
-└─────────────────────────────────────────────────────────────────────┘
+I work at the edges of low-level systems — kernel vulnerabilities, exploitation research, things that break in ways most people never see. But this is not really a newsletter about that.
+
+This is about what it actually costs to build something real. The doubt that comes before the breakthrough. The long sessions where nothing works. The strange feeling of loving a craft that constantly humbles you.
+
+I write, document and share ecause I want you to see yourself in here somewhere. Not the polished version of someone who already made it — the honest version of someone still in the middle of it, choosing to keep going anyway.
+Whatever you are building, you are not as far behind as you think.
+
 ```
 
 ---
 
-## `> LANGUAGE ARSENAL`
+## `> language arsenal`
 
 <div align="center">
 
