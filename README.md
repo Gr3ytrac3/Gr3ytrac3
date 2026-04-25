@@ -14,7 +14,7 @@ I work at the edges of low-level systems — kernel vulnerabilities, exploitatio
 
 This is about what it actually costs to build something real. The doubt that comes before the breakthrough. The long sessions where nothing works. The strange feeling of loving a craft that constantly humbles you.
 
-I write, document and share ecause I want you to see yourself in here somewhere. Not the polished version of someone who already made it — the honest version of someone still in the middle of it, choosing to keep going anyway.
+I write, document and share because I want you to see yourself in here somewhere. Not the polished version of someone who already made it — the honest version of someone still in the middle of it, choosing to keep going anyway.
 Whatever you are building, you are not as far behind as you think.
 
 ```
