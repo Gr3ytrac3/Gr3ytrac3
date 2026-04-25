@@ -42,8 +42,6 @@ Whatever you are building, you are not as far behind as you think.
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gr3ytrac3&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=FF0040&text_color=c8c8d4" width="340"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gr3ytrac3&theme=radical&hide_border=true&background=0d0d0d&ring=FF0040&fire=FF6600&currStreakLabel=FF0040&sideLabels=00FF41&dates=666666" width="380"/>
 
 </div>
