@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- DARK HEADER PANEL (SVG in repo — supports dark bg, custom styles) -->
-<img src="https://github.com/Gr3ytrac3/Gr3ytrac3/blob/fa3e47fbb1956afe55458d754308cb1706bcfef0/-uvauo8.jpg" width="100%" alt="GR3YTRAC3 — The Ghost in the Machine"/>
+<img src="https://res.cloudinary.com/dipvhqnzw/image/upload/v1777764003/Cyberdev_eelmbh.png" width="100%" alt="GR3YTRAC3 — The Ghost in the Machine"/>
 
 </div>
 
